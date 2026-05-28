@@ -22,15 +22,28 @@ Ce dossier contient le rendu final du projet **AgroFrugal**, un système de diag
 - Redis (pour le cache)
 
 ### 1. Préparation de l'environnement
+Il est fortement recommandé d'utiliser un environnement virtuel :
 ```bash
+# Créer l'environnement
+python3 -m venv .venv
+
+# Activer l'environnement
+source .venv/bin/activate
+
 # Installer les dépendances
+pip install --upgrade pip
 pip install -r agrofrugal/requirements.txt
 ```
 
-### 2. Téléchargement et Génération du Modèle (Indispensable)
-Le modèle n'est pas inclus dans le dépôt Git pour des raisons de poids. Vous devez le générer localement (téléchargement automatique depuis Hugging Face puis quantification INT8) :
+Ensuite, installer et lancer Redis. Sur Ubuntu:
 ```bash
-python agrofrugal/scripts/quantize.py
+sudo apt install redis-server
+sudo systemctl start redis-server
+```
+
+### 2. Téléchargement et Génération du Modèle (Indispensable)
+```bash
+python3 agrofrugal/scripts/quantize.py
 ```
 
 ### 3. Lancement Local de l'API
@@ -41,8 +54,8 @@ export REDIS_URL=redis://localhost:6379/0
 export FAQ_PATH=agrofrugal/data/faq_agriculture_300.json
 export MODEL_PATH=agrofrugal/models/distilbert-int8
 
-# Lancer l'API
-uvicorn agrofrugal.app:app --host 0.0.0.0 --port 8000
+# Lancer l'API (via le module python pour éviter les erreurs de PATH)
+python3 -m uvicorn agrofrugal.app:app --host 0.0.0.0 --port 8000
 ```
 
 ### Exécution des Tests

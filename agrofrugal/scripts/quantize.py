@@ -1,9 +1,6 @@
 import json
-import time
 import torch
-import os
 from pathlib import Path
-from codecarbon import EmissionsTracker
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 
 # Config

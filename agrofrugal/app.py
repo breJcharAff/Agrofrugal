@@ -151,6 +151,7 @@ async def diagnose(req: DiagnoseRequest) -> DiagnoseResponse:
         answer, conf_faq = _find_faq(intent, entities)
     except Exception as exc:
         REQUESTS_TOTAL.labels("/diagnose", "500").inc()
+        print(f"Error during inference: {exc}")
         raise HTTPException(status_code=500, detail=f"inference error: {exc}") from exc
 
     payload = {
