@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "faq_000",
+    "question": "Comment traiter la pourriture sur les tomates ?",
+    "answer": "Retirer les fruits atteints, améliorer la ventilation et appliquer une décoction de prêle ou bouillie bordelaise.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "tomate",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_001",
+    "question": "Symptômes de la chlorose ferrique sur vigne ?",
+    "answer": "Feuilles jaunissantes avec nervures vertes, apport de fer chélaté au pied.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_002",
+    "question": "Quand récolter le maïs grain ?",
+    "answer": "Quand l'humidité du grain descend entre 25 et 30 pour cent, généralement septembre-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "mais",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_003",
+    "question": "Symptômes de la chlorose ferrique sur vigne ?",
+    "answer": "Feuilles jaunissantes avec nervures vertes, apport de fer chélaté au pied.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_004",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_005",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_006",
+    "question": "Quand irriguer le blé en période sèche ?",
+    "answer": "Irriguer en début de matinée ou en soirée pour limiter l'évaporation, principalement à la montaison.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "ble",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_007",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_008",
+    "question": "Quand récolter le raisin de cuve ?",
+    "answer": "Quand le rapport sucre/acidité est optimal, généralement fin août à mi-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_009",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_010",
+    "question": "Quand récolter le raisin de cuve ?",
+    "answer": "Quand le rapport sucre/acidité est optimal, généralement fin août à mi-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_011",
+    "question": "Quelle dose d'eau pour la salade en pots ?",
+    "answer": "Arroser quotidiennement par petite quantité, garder le substrat humide sans excès.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "salade",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_012",
+    "question": "Comment traiter le ver de la pomme ?",
+    "answer": "Phéromones de confusion sexuelle, pièges à glu, traitement granulosis virus.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_013",
+    "question": "Comment traiter la pourriture sur les tomates ?",
+    "answer": "Retirer les fruits atteints, améliorer la ventilation et appliquer une décoction de prêle ou bouillie bordelaise.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "tomate",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_014",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_015",
+    "question": "Comment traiter la pourriture sur les tomates ?",
+    "answer": "Retirer les fruits atteints, améliorer la ventilation et appliquer une décoction de prêle ou bouillie bordelaise.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "tomate",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_016",
+    "question": "Quelle quantité d'eau pour les pommiers adultes ?",
+    "answer": "Environ 30 à 50 litres par semaine en période sèche, paillage recommandé.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_017",
+    "question": "Quand semer les carottes ?",
+    "answer": "De mars à juillet selon les variétés, sol meuble et débarrassé des cailloux.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "carotte",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_018",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_019",
+    "question": "Comment économiser l'eau au potager ?",
+    "answer": "Paillage organique, goutte-à-goutte enterré, récupération eaux pluviales, plantations groupées.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "general",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_020",
+    "question": "Comment traiter le ver de la pomme ?",
+    "answer": "Phéromones de confusion sexuelle, pièges à glu, traitement granulosis virus.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_021",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_022",
+    "question": "Comment prévenir le tavelure du pommier ?",
+    "answer": "Pulvérisation cuivre à la chute des feuilles, ramassage des feuilles mortes en automne.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_023",
+    "question": "Quand récolter le maïs grain ?",
+    "answer": "Quand l'humidité du grain descend entre 25 et 30 pour cent, généralement septembre-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "mais",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_024",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_025",
+    "question": "Comment traiter l'oïdium de la courgette ?",
+    "answer": "Couper les feuilles atteintes, pulvériser bicarbonate de soude dilué ou lait écrémé.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_026",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_027",
+    "question": "Quand récolter le maïs grain ?",
+    "answer": "Quand l'humidité du grain descend entre 25 et 30 pour cent, généralement septembre-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "mais",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_028",
+    "question": "Quand irriguer le blé en période sèche ?",
+    "answer": "Irriguer en début de matinée ou en soirée pour limiter l'évaporation, principalement à la montaison.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "ble",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_029",
+    "question": "Comment traiter l'oïdium de la courgette ?",
+    "answer": "Couper les feuilles atteintes, pulvériser bicarbonate de soude dilué ou lait écrémé.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_030",
+    "question": "Comment prévenir le tavelure du pommier ?",
+    "answer": "Pulvérisation cuivre à la chute des feuilles, ramassage des feuilles mortes en automne.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_031",
+    "question": "Comment traiter le ver de la pomme ?",
+    "answer": "Phéromones de confusion sexuelle, pièges à glu, traitement granulosis virus.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_032",
+    "question": "Quelle dose d'eau pour la salade en pots ?",
+    "answer": "Arroser quotidiennement par petite quantité, garder le substrat humide sans excès.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "salade",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_033",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_034",
+    "question": "Quand récolter le maïs grain ?",
+    "answer": "Quand l'humidité du grain descend entre 25 et 30 pour cent, généralement septembre-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "mais",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_035",
+    "question": "Quand récolter le raisin de cuve ?",
+    "answer": "Quand le rapport sucre/acidité est optimal, généralement fin août à mi-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_036",
+    "question": "Comment traiter le ver de la pomme ?",
+    "answer": "Phéromones de confusion sexuelle, pièges à glu, traitement granulosis virus.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_037",
+    "question": "Comment économiser l'eau au potager ?",
+    "answer": "Paillage organique, goutte-à-goutte enterré, récupération eaux pluviales, plantations groupées.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "general",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_038",
+    "question": "Comment traiter la pourriture sur les tomates ?",
+    "answer": "Retirer les fruits atteints, améliorer la ventilation et appliquer une décoction de prêle ou bouillie bordelaise.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "tomate",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_039",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_040",
+    "question": "Quand récolter les courges d'hiver ?",
+    "answer": "Quand le pédoncule est sec et l'ongle ne marque plus la peau, avant les gelées.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courge",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_041",
+    "question": "Comment traiter l'oïdium de la courgette ?",
+    "answer": "Couper les feuilles atteintes, pulvériser bicarbonate de soude dilué ou lait écrémé.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_042",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_043",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_044",
+    "question": "Comment prévenir le tavelure du pommier ?",
+    "answer": "Pulvérisation cuivre à la chute des feuilles, ramassage des feuilles mortes en automne.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_045",
+    "question": "Comment traiter la pourriture sur les tomates ?",
+    "answer": "Retirer les fruits atteints, améliorer la ventilation et appliquer une décoction de prêle ou bouillie bordelaise.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "tomate",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_046",
+    "question": "Comment traiter le ver de la pomme ?",
+    "answer": "Phéromones de confusion sexuelle, pièges à glu, traitement granulosis virus.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_047",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_048",
+    "question": "Comment traiter l'oïdium de la courgette ?",
+    "answer": "Couper les feuilles atteintes, pulvériser bicarbonate de soude dilué ou lait écrémé.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_049",
+    "question": "Quand récolter les courges d'hiver ?",
+    "answer": "Quand le pédoncule est sec et l'ongle ne marque plus la peau, avant les gelées.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courge",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_050",
+    "question": "Comment prévenir le tavelure du pommier ?",
+    "answer": "Pulvérisation cuivre à la chute des feuilles, ramassage des feuilles mortes en automne.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_051",
+    "question": "Comment identifier la rouille du blé ?",
+    "answer": "Pustules orangées sur la face inférieure des feuilles, traitement fongicide adapté à la variété.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "ble",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_052",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_053",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_054",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_055",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_056",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_057",
+    "question": "Comment économiser l'eau au potager ?",
+    "answer": "Paillage organique, goutte-à-goutte enterré, récupération eaux pluviales, plantations groupées.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "general",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_058",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_059",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_060",
+    "question": "Comment économiser l'eau au potager ?",
+    "answer": "Paillage organique, goutte-à-goutte enterré, récupération eaux pluviales, plantations groupées.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "general",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_061",
+    "question": "Comment traiter la pourriture sur les tomates ?",
+    "answer": "Retirer les fruits atteints, améliorer la ventilation et appliquer une décoction de prêle ou bouillie bordelaise.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "tomate",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_062",
+    "question": "Quand cueillir les courgettes ?",
+    "answer": "Tous les 2 à 3 jours quand elles font 15-20 cm, avant que les graines ne durcissent.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_063",
+    "question": "Quand récolter le raisin de cuve ?",
+    "answer": "Quand le rapport sucre/acidité est optimal, généralement fin août à mi-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_064",
+    "question": "Quand irriguer le blé en période sèche ?",
+    "answer": "Irriguer en début de matinée ou en soirée pour limiter l'évaporation, principalement à la montaison.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "ble",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_065",
+    "question": "Quand cueillir les courgettes ?",
+    "answer": "Tous les 2 à 3 jours quand elles font 15-20 cm, avant que les graines ne durcissent.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_066",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_067",
+    "question": "Quelle quantité d'eau pour les pommiers adultes ?",
+    "answer": "Environ 30 à 50 litres par semaine en période sèche, paillage recommandé.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_068",
+    "question": "Comment traiter la pourriture sur les tomates ?",
+    "answer": "Retirer les fruits atteints, améliorer la ventilation et appliquer une décoction de prêle ou bouillie bordelaise.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "tomate",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_069",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_070",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_071",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_072",
+    "question": "Comment traiter l'oïdium de la courgette ?",
+    "answer": "Couper les feuilles atteintes, pulvériser bicarbonate de soude dilué ou lait écrémé.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_073",
+    "question": "Quand récolter le maïs grain ?",
+    "answer": "Quand l'humidité du grain descend entre 25 et 30 pour cent, généralement septembre-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "mais",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_074",
+    "question": "Quand récolter les courges d'hiver ?",
+    "answer": "Quand le pédoncule est sec et l'ongle ne marque plus la peau, avant les gelées.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courge",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_075",
+    "question": "Symptômes de la chlorose ferrique sur vigne ?",
+    "answer": "Feuilles jaunissantes avec nervures vertes, apport de fer chélaté au pied.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_076",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_077",
+    "question": "Quand irriguer le blé en période sèche ?",
+    "answer": "Irriguer en début de matinée ou en soirée pour limiter l'évaporation, principalement à la montaison.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "ble",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_078",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_079",
+    "question": "Comment économiser l'eau au potager ?",
+    "answer": "Paillage organique, goutte-à-goutte enterré, récupération eaux pluviales, plantations groupées.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "general",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_080",
+    "question": "Symptômes de la chlorose ferrique sur vigne ?",
+    "answer": "Feuilles jaunissantes avec nervures vertes, apport de fer chélaté au pied.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_081",
+    "question": "Comment identifier la rouille du blé ?",
+    "answer": "Pustules orangées sur la face inférieure des feuilles, traitement fongicide adapté à la variété.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "ble",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_082",
+    "question": "Quelle dose d'eau pour la salade en pots ?",
+    "answer": "Arroser quotidiennement par petite quantité, garder le substrat humide sans excès.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "salade",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_083",
+    "question": "Quand récolter le raisin de cuve ?",
+    "answer": "Quand le rapport sucre/acidité est optimal, généralement fin août à mi-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_084",
+    "question": "Comment identifier la rouille du blé ?",
+    "answer": "Pustules orangées sur la face inférieure des feuilles, traitement fongicide adapté à la variété.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "ble",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_085",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_086",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_087",
+    "question": "Quelle dose d'eau pour la salade en pots ?",
+    "answer": "Arroser quotidiennement par petite quantité, garder le substrat humide sans excès.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "salade",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_088",
+    "question": "Quand irriguer le blé en période sèche ?",
+    "answer": "Irriguer en début de matinée ou en soirée pour limiter l'évaporation, principalement à la montaison.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "ble",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_089",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_090",
+    "question": "Quand semer les carottes ?",
+    "answer": "De mars à juillet selon les variétés, sol meuble et débarrassé des cailloux.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "carotte",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_091",
+    "question": "Quand irriguer le blé en période sèche ?",
+    "answer": "Irriguer en début de matinée ou en soirée pour limiter l'évaporation, principalement à la montaison.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "ble",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_092",
+    "question": "Quand semer les carottes ?",
+    "answer": "De mars à juillet selon les variétés, sol meuble et débarrassé des cailloux.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "carotte",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_093",
+    "question": "Quand irriguer le blé en période sèche ?",
+    "answer": "Irriguer en début de matinée ou en soirée pour limiter l'évaporation, principalement à la montaison.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "ble",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_094",
+    "question": "Symptômes de la chlorose ferrique sur vigne ?",
+    "answer": "Feuilles jaunissantes avec nervures vertes, apport de fer chélaté au pied.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_095",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_096",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_097",
+    "question": "Quand cueillir les courgettes ?",
+    "answer": "Tous les 2 à 3 jours quand elles font 15-20 cm, avant que les graines ne durcissent.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_098",
+    "question": "Comment économiser l'eau au potager ?",
+    "answer": "Paillage organique, goutte-à-goutte enterré, récupération eaux pluviales, plantations groupées.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "general",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_099",
+    "question": "Quand récolter le raisin de cuve ?",
+    "answer": "Quand le rapport sucre/acidité est optimal, généralement fin août à mi-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_100",
+    "question": "Quelle quantité d'eau pour les pommiers adultes ?",
+    "answer": "Environ 30 à 50 litres par semaine en période sèche, paillage recommandé.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_101",
+    "question": "Quand irriguer le blé en période sèche ?",
+    "answer": "Irriguer en début de matinée ou en soirée pour limiter l'évaporation, principalement à la montaison.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "ble",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_102",
+    "question": "Quand semer les carottes ?",
+    "answer": "De mars à juillet selon les variétés, sol meuble et débarrassé des cailloux.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "carotte",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_103",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_104",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_105",
+    "question": "Quand irriguer le blé en période sèche ?",
+    "answer": "Irriguer en début de matinée ou en soirée pour limiter l'évaporation, principalement à la montaison.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "ble",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_106",
+    "question": "Symptômes de la chlorose ferrique sur vigne ?",
+    "answer": "Feuilles jaunissantes avec nervures vertes, apport de fer chélaté au pied.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_107",
+    "question": "Quelle quantité d'eau pour les pommiers adultes ?",
+    "answer": "Environ 30 à 50 litres par semaine en période sèche, paillage recommandé.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_108",
+    "question": "Quand récolter le maïs grain ?",
+    "answer": "Quand l'humidité du grain descend entre 25 et 30 pour cent, généralement septembre-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "mais",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_109",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_110",
+    "question": "Comment prévenir le tavelure du pommier ?",
+    "answer": "Pulvérisation cuivre à la chute des feuilles, ramassage des feuilles mortes en automne.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_111",
+    "question": "Quand cueillir les courgettes ?",
+    "answer": "Tous les 2 à 3 jours quand elles font 15-20 cm, avant que les graines ne durcissent.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_112",
+    "question": "Quelle dose d'eau pour la salade en pots ?",
+    "answer": "Arroser quotidiennement par petite quantité, garder le substrat humide sans excès.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "salade",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_113",
+    "question": "Quand cueillir les courgettes ?",
+    "answer": "Tous les 2 à 3 jours quand elles font 15-20 cm, avant que les graines ne durcissent.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_114",
+    "question": "Symptômes de la chlorose ferrique sur vigne ?",
+    "answer": "Feuilles jaunissantes avec nervures vertes, apport de fer chélaté au pied.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_115",
+    "question": "Comment identifier la rouille du blé ?",
+    "answer": "Pustules orangées sur la face inférieure des feuilles, traitement fongicide adapté à la variété.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "ble",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_116",
+    "question": "Quand récolter le raisin de cuve ?",
+    "answer": "Quand le rapport sucre/acidité est optimal, généralement fin août à mi-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_117",
+    "question": "Quand récolter le raisin de cuve ?",
+    "answer": "Quand le rapport sucre/acidité est optimal, généralement fin août à mi-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_118",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_119",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_120",
+    "question": "Quelle quantité d'eau pour les pommiers adultes ?",
+    "answer": "Environ 30 à 50 litres par semaine en période sèche, paillage recommandé.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_121",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_122",
+    "question": "Comment prévenir le tavelure du pommier ?",
+    "answer": "Pulvérisation cuivre à la chute des feuilles, ramassage des feuilles mortes en automne.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_123",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_124",
+    "question": "Comment prévenir le tavelure du pommier ?",
+    "answer": "Pulvérisation cuivre à la chute des feuilles, ramassage des feuilles mortes en automne.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_125",
+    "question": "Comment traiter le ver de la pomme ?",
+    "answer": "Phéromones de confusion sexuelle, pièges à glu, traitement granulosis virus.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_126",
+    "question": "Comment identifier la rouille du blé ?",
+    "answer": "Pustules orangées sur la face inférieure des feuilles, traitement fongicide adapté à la variété.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "ble",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_127",
+    "question": "Comment économiser l'eau au potager ?",
+    "answer": "Paillage organique, goutte-à-goutte enterré, récupération eaux pluviales, plantations groupées.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "general",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_128",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_129",
+    "question": "Symptômes de la chlorose ferrique sur vigne ?",
+    "answer": "Feuilles jaunissantes avec nervures vertes, apport de fer chélaté au pied.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_130",
+    "question": "Quand récolter le maïs grain ?",
+    "answer": "Quand l'humidité du grain descend entre 25 et 30 pour cent, généralement septembre-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "mais",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_131",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_132",
+    "question": "Symptômes de la chlorose ferrique sur vigne ?",
+    "answer": "Feuilles jaunissantes avec nervures vertes, apport de fer chélaté au pied.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_133",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_134",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_135",
+    "question": "Quelle dose d'eau pour la salade en pots ?",
+    "answer": "Arroser quotidiennement par petite quantité, garder le substrat humide sans excès.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "salade",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_136",
+    "question": "Comment traiter le ver de la pomme ?",
+    "answer": "Phéromones de confusion sexuelle, pièges à glu, traitement granulosis virus.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_137",
+    "question": "Comment prévenir le tavelure du pommier ?",
+    "answer": "Pulvérisation cuivre à la chute des feuilles, ramassage des feuilles mortes en automne.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_138",
+    "question": "Comment identifier la rouille du blé ?",
+    "answer": "Pustules orangées sur la face inférieure des feuilles, traitement fongicide adapté à la variété.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "ble",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_139",
+    "question": "Quelle dose d'eau pour la salade en pots ?",
+    "answer": "Arroser quotidiennement par petite quantité, garder le substrat humide sans excès.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "salade",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_140",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_141",
+    "question": "Quelle dose d'eau pour la salade en pots ?",
+    "answer": "Arroser quotidiennement par petite quantité, garder le substrat humide sans excès.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "salade",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_142",
+    "question": "Quand irriguer le blé en période sèche ?",
+    "answer": "Irriguer en début de matinée ou en soirée pour limiter l'évaporation, principalement à la montaison.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "ble",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_143",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_144",
+    "question": "Comment traiter le ver de la pomme ?",
+    "answer": "Phéromones de confusion sexuelle, pièges à glu, traitement granulosis virus.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_145",
+    "question": "Comment prévenir le tavelure du pommier ?",
+    "answer": "Pulvérisation cuivre à la chute des feuilles, ramassage des feuilles mortes en automne.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_146",
+    "question": "Quelle quantité d'eau pour les pommiers adultes ?",
+    "answer": "Environ 30 à 50 litres par semaine en période sèche, paillage recommandé.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_147",
+    "question": "Quand irriguer le blé en période sèche ?",
+    "answer": "Irriguer en début de matinée ou en soirée pour limiter l'évaporation, principalement à la montaison.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "ble",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_148",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_149",
+    "question": "Quand cueillir les courgettes ?",
+    "answer": "Tous les 2 à 3 jours quand elles font 15-20 cm, avant que les graines ne durcissent.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_150",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_151",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_152",
+    "question": "Comment identifier la rouille du blé ?",
+    "answer": "Pustules orangées sur la face inférieure des feuilles, traitement fongicide adapté à la variété.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "ble",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_153",
+    "question": "Comment traiter la pourriture sur les tomates ?",
+    "answer": "Retirer les fruits atteints, améliorer la ventilation et appliquer une décoction de prêle ou bouillie bordelaise.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "tomate",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_154",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_155",
+    "question": "Comment traiter le ver de la pomme ?",
+    "answer": "Phéromones de confusion sexuelle, pièges à glu, traitement granulosis virus.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_156",
+    "question": "Quelle dose d'eau pour la salade en pots ?",
+    "answer": "Arroser quotidiennement par petite quantité, garder le substrat humide sans excès.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "salade",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_157",
+    "question": "Quand irriguer le blé en période sèche ?",
+    "answer": "Irriguer en début de matinée ou en soirée pour limiter l'évaporation, principalement à la montaison.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "ble",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_158",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_159",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_160",
+    "question": "Comment traiter l'oïdium de la courgette ?",
+    "answer": "Couper les feuilles atteintes, pulvériser bicarbonate de soude dilué ou lait écrémé.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_161",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_162",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_163",
+    "question": "Quand cueillir les courgettes ?",
+    "answer": "Tous les 2 à 3 jours quand elles font 15-20 cm, avant que les graines ne durcissent.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_164",
+    "question": "Quand récolter les courges d'hiver ?",
+    "answer": "Quand le pédoncule est sec et l'ongle ne marque plus la peau, avant les gelées.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courge",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_165",
+    "question": "Quand irriguer le blé en période sèche ?",
+    "answer": "Irriguer en début de matinée ou en soirée pour limiter l'évaporation, principalement à la montaison.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "ble",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_166",
+    "question": "Comment traiter le ver de la pomme ?",
+    "answer": "Phéromones de confusion sexuelle, pièges à glu, traitement granulosis virus.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_167",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_168",
+    "question": "Quelle dose d'eau pour la salade en pots ?",
+    "answer": "Arroser quotidiennement par petite quantité, garder le substrat humide sans excès.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "salade",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_169",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_170",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_171",
+    "question": "Quelle dose d'eau pour la salade en pots ?",
+    "answer": "Arroser quotidiennement par petite quantité, garder le substrat humide sans excès.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "salade",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_172",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_173",
+    "question": "Quand récolter les courges d'hiver ?",
+    "answer": "Quand le pédoncule est sec et l'ongle ne marque plus la peau, avant les gelées.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courge",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_174",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_175",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_176",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_177",
+    "question": "Quand cueillir les courgettes ?",
+    "answer": "Tous les 2 à 3 jours quand elles font 15-20 cm, avant que les graines ne durcissent.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_178",
+    "question": "Symptômes de la chlorose ferrique sur vigne ?",
+    "answer": "Feuilles jaunissantes avec nervures vertes, apport de fer chélaté au pied.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_179",
+    "question": "Quelle quantité d'eau pour les pommiers adultes ?",
+    "answer": "Environ 30 à 50 litres par semaine en période sèche, paillage recommandé.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_180",
+    "question": "Comment traiter l'oïdium de la courgette ?",
+    "answer": "Couper les feuilles atteintes, pulvériser bicarbonate de soude dilué ou lait écrémé.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_181",
+    "question": "Quand récolter le maïs grain ?",
+    "answer": "Quand l'humidité du grain descend entre 25 et 30 pour cent, généralement septembre-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "mais",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_182",
+    "question": "Comment traiter la pourriture sur les tomates ?",
+    "answer": "Retirer les fruits atteints, améliorer la ventilation et appliquer une décoction de prêle ou bouillie bordelaise.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "tomate",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_183",
+    "question": "Comment identifier la rouille du blé ?",
+    "answer": "Pustules orangées sur la face inférieure des feuilles, traitement fongicide adapté à la variété.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "ble",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_184",
+    "question": "Quand récolter le raisin de cuve ?",
+    "answer": "Quand le rapport sucre/acidité est optimal, généralement fin août à mi-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_185",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_186",
+    "question": "Quand cueillir les courgettes ?",
+    "answer": "Tous les 2 à 3 jours quand elles font 15-20 cm, avant que les graines ne durcissent.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_187",
+    "question": "Comment économiser l'eau au potager ?",
+    "answer": "Paillage organique, goutte-à-goutte enterré, récupération eaux pluviales, plantations groupées.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "general",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_188",
+    "question": "Quand récolter le maïs grain ?",
+    "answer": "Quand l'humidité du grain descend entre 25 et 30 pour cent, généralement septembre-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "mais",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_189",
+    "question": "Quelle quantité d'eau pour les pommiers adultes ?",
+    "answer": "Environ 30 à 50 litres par semaine en période sèche, paillage recommandé.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_190",
+    "question": "Quelle quantité d'eau pour les pommiers adultes ?",
+    "answer": "Environ 30 à 50 litres par semaine en période sèche, paillage recommandé.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_191",
+    "question": "Quelle dose d'eau pour la salade en pots ?",
+    "answer": "Arroser quotidiennement par petite quantité, garder le substrat humide sans excès.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "salade",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_192",
+    "question": "Quand semer les carottes ?",
+    "answer": "De mars à juillet selon les variétés, sol meuble et débarrassé des cailloux.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "carotte",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_193",
+    "question": "Comment traiter le ver de la pomme ?",
+    "answer": "Phéromones de confusion sexuelle, pièges à glu, traitement granulosis virus.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_194",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_195",
+    "question": "Quand récolter le raisin de cuve ?",
+    "answer": "Quand le rapport sucre/acidité est optimal, généralement fin août à mi-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_196",
+    "question": "Quand semer les carottes ?",
+    "answer": "De mars à juillet selon les variétés, sol meuble et débarrassé des cailloux.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "carotte",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_197",
+    "question": "Quand récolter le maïs grain ?",
+    "answer": "Quand l'humidité du grain descend entre 25 et 30 pour cent, généralement septembre-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "mais",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_198",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_199",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_200",
+    "question": "Quelle dose d'eau pour la salade en pots ?",
+    "answer": "Arroser quotidiennement par petite quantité, garder le substrat humide sans excès.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "salade",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_201",
+    "question": "Comment identifier la rouille du blé ?",
+    "answer": "Pustules orangées sur la face inférieure des feuilles, traitement fongicide adapté à la variété.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "ble",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_202",
+    "question": "Quelle dose d'eau pour la salade en pots ?",
+    "answer": "Arroser quotidiennement par petite quantité, garder le substrat humide sans excès.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "salade",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_203",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_204",
+    "question": "Symptômes de la chlorose ferrique sur vigne ?",
+    "answer": "Feuilles jaunissantes avec nervures vertes, apport de fer chélaté au pied.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_205",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_206",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_207",
+    "question": "Comment économiser l'eau au potager ?",
+    "answer": "Paillage organique, goutte-à-goutte enterré, récupération eaux pluviales, plantations groupées.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "general",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_208",
+    "question": "Comment économiser l'eau au potager ?",
+    "answer": "Paillage organique, goutte-à-goutte enterré, récupération eaux pluviales, plantations groupées.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "general",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_209",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_210",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_211",
+    "question": "Comment identifier la rouille du blé ?",
+    "answer": "Pustules orangées sur la face inférieure des feuilles, traitement fongicide adapté à la variété.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "ble",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_212",
+    "question": "Comment identifier la rouille du blé ?",
+    "answer": "Pustules orangées sur la face inférieure des feuilles, traitement fongicide adapté à la variété.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "ble",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_213",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_214",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_215",
+    "question": "Comment traiter l'oïdium de la courgette ?",
+    "answer": "Couper les feuilles atteintes, pulvériser bicarbonate de soude dilué ou lait écrémé.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_216",
+    "question": "Quand récolter le maïs grain ?",
+    "answer": "Quand l'humidité du grain descend entre 25 et 30 pour cent, généralement septembre-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "mais",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_217",
+    "question": "Quand semer les carottes ?",
+    "answer": "De mars à juillet selon les variétés, sol meuble et débarrassé des cailloux.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "carotte",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_218",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_219",
+    "question": "Comment traiter l'oïdium de la courgette ?",
+    "answer": "Couper les feuilles atteintes, pulvériser bicarbonate de soude dilué ou lait écrémé.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_220",
+    "question": "Quand récolter le raisin de cuve ?",
+    "answer": "Quand le rapport sucre/acidité est optimal, généralement fin août à mi-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_221",
+    "question": "Comment traiter la pourriture sur les tomates ?",
+    "answer": "Retirer les fruits atteints, améliorer la ventilation et appliquer une décoction de prêle ou bouillie bordelaise.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "tomate",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_222",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_223",
+    "question": "Comment économiser l'eau au potager ?",
+    "answer": "Paillage organique, goutte-à-goutte enterré, récupération eaux pluviales, plantations groupées.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "general",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_224",
+    "question": "Quand récolter les courges d'hiver ?",
+    "answer": "Quand le pédoncule est sec et l'ongle ne marque plus la peau, avant les gelées.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courge",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_225",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_226",
+    "question": "Quelle dose d'eau pour la salade en pots ?",
+    "answer": "Arroser quotidiennement par petite quantité, garder le substrat humide sans excès.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "salade",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_227",
+    "question": "Comment économiser l'eau au potager ?",
+    "answer": "Paillage organique, goutte-à-goutte enterré, récupération eaux pluviales, plantations groupées.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "general",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_228",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_229",
+    "question": "Comment traiter le ver de la pomme ?",
+    "answer": "Phéromones de confusion sexuelle, pièges à glu, traitement granulosis virus.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_230",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_231",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_232",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_233",
+    "question": "Quand cueillir les courgettes ?",
+    "answer": "Tous les 2 à 3 jours quand elles font 15-20 cm, avant que les graines ne durcissent.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_234",
+    "question": "Quand récolter le raisin de cuve ?",
+    "answer": "Quand le rapport sucre/acidité est optimal, généralement fin août à mi-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_235",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_236",
+    "question": "Comment prévenir le tavelure du pommier ?",
+    "answer": "Pulvérisation cuivre à la chute des feuilles, ramassage des feuilles mortes en automne.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_237",
+    "question": "Comment prévenir le tavelure du pommier ?",
+    "answer": "Pulvérisation cuivre à la chute des feuilles, ramassage des feuilles mortes en automne.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_238",
+    "question": "Quand récolter les courges d'hiver ?",
+    "answer": "Quand le pédoncule est sec et l'ongle ne marque plus la peau, avant les gelées.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courge",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_239",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_240",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_241",
+    "question": "Symptômes de la chlorose ferrique sur vigne ?",
+    "answer": "Feuilles jaunissantes avec nervures vertes, apport de fer chélaté au pied.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_242",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_243",
+    "question": "Quelle dose d'eau pour la salade en pots ?",
+    "answer": "Arroser quotidiennement par petite quantité, garder le substrat humide sans excès.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "salade",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_244",
+    "question": "Quelle dose d'eau pour la salade en pots ?",
+    "answer": "Arroser quotidiennement par petite quantité, garder le substrat humide sans excès.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "salade",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_245",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_246",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_247",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_248",
+    "question": "Comment économiser l'eau au potager ?",
+    "answer": "Paillage organique, goutte-à-goutte enterré, récupération eaux pluviales, plantations groupées.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "general",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_249",
+    "question": "Quand récolter les courges d'hiver ?",
+    "answer": "Quand le pédoncule est sec et l'ongle ne marque plus la peau, avant les gelées.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courge",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_250",
+    "question": "Comment identifier la rouille du blé ?",
+    "answer": "Pustules orangées sur la face inférieure des feuilles, traitement fongicide adapté à la variété.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "ble",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_251",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_252",
+    "question": "Comment prévenir le tavelure du pommier ?",
+    "answer": "Pulvérisation cuivre à la chute des feuilles, ramassage des feuilles mortes en automne.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_253",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_254",
+    "question": "Quand irriguer le blé en période sèche ?",
+    "answer": "Irriguer en début de matinée ou en soirée pour limiter l'évaporation, principalement à la montaison.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "ble",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_255",
+    "question": "Quand récolter le maïs grain ?",
+    "answer": "Quand l'humidité du grain descend entre 25 et 30 pour cent, généralement septembre-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "mais",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_256",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_257",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_258",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_259",
+    "question": "Comment identifier la rouille du blé ?",
+    "answer": "Pustules orangées sur la face inférieure des feuilles, traitement fongicide adapté à la variété.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "ble",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_260",
+    "question": "Comment identifier la rouille du blé ?",
+    "answer": "Pustules orangées sur la face inférieure des feuilles, traitement fongicide adapté à la variété.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "ble",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_261",
+    "question": "Symptômes de la chlorose ferrique sur vigne ?",
+    "answer": "Feuilles jaunissantes avec nervures vertes, apport de fer chélaté au pied.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_262",
+    "question": "Comment traiter l'oïdium de la courgette ?",
+    "answer": "Couper les feuilles atteintes, pulvériser bicarbonate de soude dilué ou lait écrémé.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "courgette",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_263",
+    "question": "Comment irriguer le maïs en pleine canicule ?",
+    "answer": "Apports fréquents de 20 à 30 mm, surtout en floraison femelle (sortie soies).",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "mais",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_264",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_265",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_266",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_267",
+    "question": "Quelle quantité d'eau pour les pommiers adultes ?",
+    "answer": "Environ 30 à 50 litres par semaine en période sèche, paillage recommandé.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_268",
+    "question": "Quand semer les carottes ?",
+    "answer": "De mars à juillet selon les variétés, sol meuble et débarrassé des cailloux.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "carotte",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_269",
+    "question": "Comment économiser l'eau au potager ?",
+    "answer": "Paillage organique, goutte-à-goutte enterré, récupération eaux pluviales, plantations groupées.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "general",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_270",
+    "question": "Quelle quantité d'eau pour les pommiers adultes ?",
+    "answer": "Environ 30 à 50 litres par semaine en période sèche, paillage recommandé.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_271",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_272",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_273",
+    "question": "Comment traiter le ver de la pomme ?",
+    "answer": "Phéromones de confusion sexuelle, pièges à glu, traitement granulosis virus.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_274",
+    "question": "Comment économiser l'eau au potager ?",
+    "answer": "Paillage organique, goutte-à-goutte enterré, récupération eaux pluviales, plantations groupées.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "general",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_275",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_276",
+    "question": "Comment lutter contre les pucerons noirs sur fèves ?",
+    "answer": "Pulvérisation savon noir, introduction de coccinelles ou plantes répulsives (capucines).",
+    "intent": "maladie",
+    "entities": {
+      "culture": "feve",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_277",
+    "question": "Comment identifier la rouille du blé ?",
+    "answer": "Pustules orangées sur la face inférieure des feuilles, traitement fongicide adapté à la variété.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "ble",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_278",
+    "question": "Quand récolter les courges d'hiver ?",
+    "answer": "Quand le pédoncule est sec et l'ongle ne marque plus la peau, avant les gelées.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courge",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_279",
+    "question": "Quand récolter les courges d'hiver ?",
+    "answer": "Quand le pédoncule est sec et l'ongle ne marque plus la peau, avant les gelées.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courge",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_280",
+    "question": "Quel intervalle d'arrosage pour la vigne en été ?",
+    "answer": "Arroser tous les 10 à 15 jours en cas de sécheresse, en goutte-à-goutte au pied des ceps.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_281",
+    "question": "Comment identifier la rouille du blé ?",
+    "answer": "Pustules orangées sur la face inférieure des feuilles, traitement fongicide adapté à la variété.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "ble",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_282",
+    "question": "Comment traiter le ver de la pomme ?",
+    "answer": "Phéromones de confusion sexuelle, pièges à glu, traitement granulosis virus.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_283",
+    "question": "Comment traiter le ver de la pomme ?",
+    "answer": "Phéromones de confusion sexuelle, pièges à glu, traitement granulosis virus.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_284",
+    "question": "Symptômes de la chlorose ferrique sur vigne ?",
+    "answer": "Feuilles jaunissantes avec nervures vertes, apport de fer chélaté au pied.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_285",
+    "question": "Quand récolter les courges d'hiver ?",
+    "answer": "Quand le pédoncule est sec et l'ongle ne marque plus la peau, avant les gelées.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courge",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_286",
+    "question": "Quand irriguer le blé en période sèche ?",
+    "answer": "Irriguer en début de matinée ou en soirée pour limiter l'évaporation, principalement à la montaison.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "ble",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_287",
+    "question": "Comment traiter la pourriture sur les tomates ?",
+    "answer": "Retirer les fruits atteints, améliorer la ventilation et appliquer une décoction de prêle ou bouillie bordelaise.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "tomate",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_288",
+    "question": "Comment lutter contre le mildiou de la pomme de terre ?",
+    "answer": "Surveiller la météo, espacer les plants, appliquer un traitement cuivre préventif avant les pluies.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_289",
+    "question": "Quand irriguer le blé en période sèche ?",
+    "answer": "Irriguer en début de matinée ou en soirée pour limiter l'évaporation, principalement à la montaison.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "ble",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_290",
+    "question": "Quand récolter les courges d'hiver ?",
+    "answer": "Quand le pédoncule est sec et l'ongle ne marque plus la peau, avant les gelées.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courge",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_291",
+    "question": "Quelle quantité d'eau pour les pommiers adultes ?",
+    "answer": "Environ 30 à 50 litres par semaine en période sèche, paillage recommandé.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_292",
+    "question": "Quand semer les carottes ?",
+    "answer": "De mars à juillet selon les variétés, sol meuble et débarrassé des cailloux.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "carotte",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_293",
+    "question": "Quand récolter les courges d'hiver ?",
+    "answer": "Quand le pédoncule est sec et l'ongle ne marque plus la peau, avant les gelées.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "courge",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_294",
+    "question": "Comment prévenir le tavelure du pommier ?",
+    "answer": "Pulvérisation cuivre à la chute des feuilles, ramassage des feuilles mortes en automne.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_295",
+    "question": "Comment traiter le ver de la pomme ?",
+    "answer": "Phéromones de confusion sexuelle, pièges à glu, traitement granulosis virus.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "pommier",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_296",
+    "question": "Comment traiter la pourriture sur les tomates ?",
+    "answer": "Retirer les fruits atteints, améliorer la ventilation et appliquer une décoction de prêle ou bouillie bordelaise.",
+    "intent": "maladie",
+    "entities": {
+      "culture": "tomate",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_297",
+    "question": "Quand récolter le raisin de cuve ?",
+    "answer": "Quand le rapport sucre/acidité est optimal, généralement fin août à mi-octobre.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "vigne",
+      "symptome": "voir_question"
+    }
+  },
+  {
+    "id": "faq_298",
+    "question": "Comment économiser l'eau au potager ?",
+    "answer": "Paillage organique, goutte-à-goutte enterré, récupération eaux pluviales, plantations groupées.",
+    "intent": "irrigation",
+    "entities": {
+      "culture": "general",
+      "symptome": "non_specifie"
+    }
+  },
+  {
+    "id": "faq_299",
+    "question": "Quand récolter les pommes de terre ?",
+    "answer": "Quand le feuillage jaunit et se dessèche, généralement 90 à 120 jours après plantation.",
+    "intent": "recolte",
+    "entities": {
+      "culture": "pomme_de_terre",
+      "symptome": "voir_question"
+    }
+  }
+]

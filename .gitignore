@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# Modèles (Trop volumineux pour Git)
+**/models/
+*.bin
+*.pt
+*.safetensors
+*.onnx
+
+# Données générées
+**/out/
+emissions.csv
+.codecarbon.lock
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store

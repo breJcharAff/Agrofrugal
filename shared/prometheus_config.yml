@@ -1,0 +1,51 @@
+global:
+  scrape_interval: 60s
+  scrape_timeout: 10s
+  evaluation_interval: 60s
+  external_labels:
+    formation: ia-frugale
+
+rule_files:
+  - alerts.yml
+
+alerting:
+  alertmanagers:
+    - static_configs:
+        - targets:
+            - alertmanager:9093
+
+scrape_configs:
+  - job_name: triagevert
+    metrics_path: /metrics
+    static_configs:
+      - targets:
+          - triagevert:8000
+    metric_relabel_configs:
+      - source_labels: [__name__]
+        regex: 'http_(requests_total|request_duration_seconds.*)|co2_kg_total|cache_(hits|misses)_total|model_inference_seconds.*'
+        action: keep
+
+  - job_name: evalueco
+    metrics_path: /metrics
+    static_configs:
+      - targets:
+          - evalueco:8000
+    metric_relabel_configs:
+      - source_labels: [__name__]
+        regex: 'http_(requests_total|request_duration_seconds.*)|co2_kg_total|batch_size_(bucket|sum|count)|model_inference_seconds.*'
+        action: keep
+
+  - job_name: agrofrugal
+    metrics_path: /metrics
+    static_configs:
+      - targets:
+          - agrofrugal:8000
+    metric_relabel_configs:
+      - source_labels: [__name__]
+        regex: 'http_(requests_total|request_duration_seconds.*)|co2_kg_total|cache_(hits|misses)_total|model_inference_seconds.*'
+        action: keep
+
+storage:
+  tsdb:
+    retention.time: 15d
+    retention.size: 1GB
