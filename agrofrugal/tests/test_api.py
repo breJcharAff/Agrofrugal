@@ -5,8 +5,8 @@ import json
 
 # Mock environment
 os.environ["REDIS_URL"] = "redis://localhost:6379/0"
-os.environ["FAQ_PATH"] = "Projets/eco-conception-frugal-ai/agrofrugal/data/faq_agriculture_300.json"
-os.environ["MODEL_PATH"] = "Projets/eco-conception-frugal-ai/agrofrugal/models/distilbert-int8"
+os.environ["FAQ_PATH"] = "agrofrugal/data/faq_agriculture_300.json"
+os.environ["MODEL_PATH"] = "agrofrugal/models/distilbert-int8"
 
 # Import app after env set
 from agrofrugal.app import app

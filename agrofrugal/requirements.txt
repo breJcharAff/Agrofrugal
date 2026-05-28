@@ -7,3 +7,4 @@ codecarbon
 transformers
 torch
 setuptools  # Requis pour codecarbon sur Python 3.12+
+pytest
